@@ -2,7 +2,7 @@
 
 </div>
 
-Я начинающий Frontend-разработчик. Мой путь в IT начался с изучения No-code и Web-дизайна. И сразу после окончания я приступила к освоению Frontend-разработки! С 2023 я создаю как пет-проекты, так и реальные, с помощью освоенных мной технологий.
+Я начинающий Frontend-разработчик. Мой путь в IT начался с изучения No-code и Web-дизайна. И сразу после окончания я приступила к освоению Frontend-разработки! С 2023 я создаю реальные и пет-проекты.
 
 <br/>
 
@@ -28,11 +28,11 @@
 ## Connect with me
 
 <div align="center">
+<a href="https://github.com/AlenaBukhtarevich" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
 <a href="https://linkedin.com/in/alena-bukhtarevich-316bb087/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/AlenaBukh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/bukhtarevich.developer/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -41,14 +41,14 @@
 
 <br/>
 
-### Badges
+## My GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/AlenaBukh"><img src="https://github-readme-stats.vercel.app/api?username=AlenaBukh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlenaBukh's GitHub stats" /></a>
+<a href="http://www.github.com/AlenaBukhtarevich"><img src="https://github-readme-stats.vercel.app/api?username=AlenaBukhtarevich&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlenaBukhtarevich's GitHub stats" /></a>
 
-<a href="http://www.github.com/AlenaBukh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenaBukh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AlenaBukhtarevich"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlenaBukhtarevich&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AlenaBukh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaBukh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AlenaBukhtarevich" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlenaBukhtarevich&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div> 
 <br/>
